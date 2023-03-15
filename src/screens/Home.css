@@ -1,0 +1,7 @@
+.home{
+    font-size: var(--font-button);
+}
+.feed{
+    text-align: center;
+    padding-top: 100px;
+}
