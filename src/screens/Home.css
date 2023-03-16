@@ -1,7 +1,5 @@
-.home{
-    font-size: var(--font-button);
-}
-.feed{
+
+.home-feed{
     text-align: center;
     padding-top: 100px;
 }

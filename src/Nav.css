@@ -1,23 +1,5 @@
-/* body{
+.nav{
     margin: 0;
-} */
-.navbar{
-    background-color: rgb(182, 95, 29);
-    font-size: 20px;
     
 }
-.ulList{
-    display: flex;
-    padding: 10px;
-    margin-left: 40px;
-    justify-content: space-between;
-    
-}
-.navbar li:hover{
-    background-color: burlywood;
-    border-radius:30px;
-    transition: 0.5s ease;
-}
-
-
 

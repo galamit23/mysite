@@ -9,7 +9,7 @@ export default function Meat() {
 	}
 
   return (
-    <div className='container'>
+    <div className=''>
       <h2 className=''>בחר סוג בשר</h2>
             <button className="btn">
               <Link className="nav-link"

@@ -3,7 +3,10 @@
   padding: 0;
   text-decoration: none;
   list-style: none;
-  
+  background-color: var(--color-bg);
+}
+.bg{
+
 }
 :root{
   --color-bg:rgb(218, 196, 128);
@@ -27,15 +30,6 @@ body {
 }
 .nav-link{
   color: black;
-
-
-}
-.btn{
-  font-size: var(--font-button);
-  background-color: var(--color-bg);
-  border-radius: 35px;
-  padding: 3px;
-  margin: 10px;
 }
 
 
