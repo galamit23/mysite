@@ -1,7 +1,6 @@
 import React from 'react'
 import './Login.css'
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import login_food from '../Pictures/login_food.jpg'
 
 export default function Login() {
   return (

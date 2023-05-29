@@ -1,9 +1,6 @@
 import React from 'react'
 import { Outlet , Link} from 'react-router-dom'
-import { useNavigate } from 'react-router-dom'
 import "./Start.css"
-
-
 
 export default function Start() {
 

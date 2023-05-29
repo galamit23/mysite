@@ -3,11 +3,6 @@ import { Outlet, Link, useNavigate} from 'react-router-dom'
 
 export default function Meat() {
 
-  const navigate = useNavigate();
-	const goBack = () => {
-		navigate(-1);
-	}
-
   return (
     <div className=''>
       <h2 className=''>בחר סוג בשר</h2>

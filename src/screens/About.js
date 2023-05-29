@@ -10,7 +10,7 @@ export default function About() {
     
     <div className='container'>
       <h2>קצת עלינו</h2>
-      <img src={Logo} className='logo-about'/>
+      <img src={Logo} className='logo-about' alt='img'/>
       <p className='discript1'>
         אספנו את מגוון המתכונים  הכי טעימים שיש
         וכל שעליכם לעשות זה לבחור את המנה לפי הקטגוריות ולפי הרמה 
@@ -24,8 +24,8 @@ export default function About() {
           <h4>facebook</h4>
           <h4>instgram</h4>
       </div>
-      <img src={img1} className="img1"/>
-      <img src={img2} className="img2"/>
+      <img src={img1} className="img1" alt='img'/>
+      <img src={img2} className="img2" alt='img'/>
     </div>
 
 

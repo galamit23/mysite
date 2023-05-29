@@ -18,11 +18,6 @@ import Milk from './screens/Start-Category/Milk'
 import Vagen from './screens/Start-Category/Vagen'
 import Combination from './screens/Start-Category/Cobination'
 
-import BurgersDB from './screens/Start-Category/Meat'
-import SteaksDB from './screens/Start-Category/Meat'
-import EntrecotesDB from './screens/Start-Category/Meat'
-import PicanhasDB from './screens/Start-Category/Meat'
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
