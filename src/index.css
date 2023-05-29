@@ -5,9 +5,6 @@
   list-style: none;
   background-color: var(--color-bg);
 }
-.bg{
-
-}
 :root{
   --color-bg:rgb(218, 196, 128);
   --color-bg-btn:rgb(227, 181, 42);
@@ -16,7 +13,6 @@
 
   --font-title: 50px;
   --font-button: 25px;
-
 }
 
 body {
@@ -26,7 +22,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--color-bg);
 }
 .nav-link{
   color: black;
